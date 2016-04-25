@@ -12,7 +12,7 @@ WriteMakefile(
     LICENSE      => 'perl_5',
     EXE_FILES    => [ 'script/llw32helper.pl' ],
     PREREQ_PM    => {
-        'local::lib'            => '1.004007',
+        'local::lib'            => '1.007000',
         'IO::Interactive'       => '0.0.5',
         'File::HomeDir'         => '0.81',
         'File::Spec::Functions' => '3.2701',
