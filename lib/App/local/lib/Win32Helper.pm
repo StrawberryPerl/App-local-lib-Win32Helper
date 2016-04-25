@@ -14,8 +14,7 @@ use 5.008001;
 use strict;
 use warnings;
 
-our $VERSION = '0.990';
-$VERSION =~ s/_//msx;
+our $VERSION = '0.991';
 
 =head1 SYNOPSIS
 
