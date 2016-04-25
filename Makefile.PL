@@ -10,6 +10,7 @@ WriteMakefile(
     VERSION_FROM => 'lib/App/local/lib/Win32Helper.pm',
     ABSTRACT     => 'Helper for Win32 users of local::lib',
     LICENSE      => 'perl_5',
+    EXE_FILES    => [ 'script/llw32helper.pl' ],
     PREREQ_PM    => {
         'local::lib'            => '1.004007',
         'IO::Interactive'       => '0.0.5',

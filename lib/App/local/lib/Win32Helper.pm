@@ -6,7 +6,7 @@ App::local::lib::Win32Helper - Helper for Win32 users of local::lib.
 
 =head1 VERSION
 
-Version 0.990
+Version 0.992
 
 =cut
 
@@ -14,7 +14,7 @@ use 5.008001;
 use strict;
 use warnings;
 
-our $VERSION = '0.991';
+our $VERSION = '0.992';
 
 =head1 SYNOPSIS
 
