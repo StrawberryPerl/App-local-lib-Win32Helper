@@ -1,22 +1,10 @@
 Changes
-inc/Module/Install.pm
-inc/Module/Install/Base.pm
-inc/Module/Install/Can.pm
-inc/Module/Install/Fetch.pm
-inc/Module/Install/Makefile.pm
-inc/Module/Install/Metadata.pm
-inc/Module/Install/PerlTar.pm
-inc/Module/Install/Scripts.pm
-inc/Module/Install/Win32.pm
-inc/Module/Install/With.pm
-inc/Module/Install/WriteAll.pm
 lib/App/local/lib/Win32Helper.pm
 Makefile.PL
 MANIFEST			This list of files
 MANIFEST.SKIP
 META.yml
 README
-releaserc
 script/llw32helper.pl
 t/000_load.t
 t/001_script.t
